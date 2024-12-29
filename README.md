@@ -1,4 +1,4 @@
-# Project Title
+# Sales Prediction
 
 This project focuses on predicting sales for retail stores using machine learning models. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation. The goal is to provide actionable insights for businesses to optimize inventory and promotional strategies.
 
