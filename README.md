@@ -86,8 +86,8 @@ sales_prediction_project/
 │   ├── SalesPrediction.ipynb          # Notebook for exploration and modeling
 │   └── WeekdayVsWeekendSales.ipynb    # Notebook for weekday vs weekend analysis
 ├── models/                            # Folder for saved models
-│   └── linear_regression_model.pkl
-│   └── xgbboost_model.pkl    # Saved ML model
+│   └── linear_regression_model.pkl    # Saved ML model
+│   └── xgbboost_model.pkl             # Saved ML model
 ├── app.py                             # Deployment script
 ├── requirements.txt                   # List of dependencies
 ├── README.md                          # Project documentation
