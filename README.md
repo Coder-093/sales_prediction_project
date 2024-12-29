@@ -34,7 +34,7 @@ The dataset contains the following features:
     ```
 
 3. Run the Jupyter notebook for training and evaluation:
-    ``bash
+    ```bash
     jupyter notebook notebooks/SalesPrediction.ipynb
     ```
 
