@@ -78,6 +78,7 @@ XGBoost's ability to handle complex relationships and provide better accuracy on
 
 ## Project Structure
 
+```bash
 sales_prediction_project/
 ├── data/                              # Folder for datasets
 │   └── train.csv                      # Dataset
@@ -90,6 +91,7 @@ sales_prediction_project/
 ├── app.py                             # Deployment script
 ├── requirements.txt                   # List of dependencies
 ├── README.md                          # Project documentation
+```
 
 
 ## Future Work
